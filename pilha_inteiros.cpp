@@ -4,7 +4,11 @@ Programa em C++ que solicita e armazena em uma pilha numeros inteiros
 enquanto o usuario deseja. Depois imprime o conteudo da pilha.
 
 */
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #include<stack>
 #include<iostream>
 using namespace std;
